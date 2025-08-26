@@ -1,4 +1,5 @@
-import br.com.mariojp.solid.dip.*;
+import br.com.mariojp.solid.dip.EmailNotifier;
+import br.com.mariojp.solid.dip.User;
 
 public class Main {
 	public static void main(String[] args) {
